@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/ptithcm/controller/HomeController.java=UTF-8
+encoding//src/ptithcm/controller/LoginController.java=UTF-8
+encoding//src/ptithcm/controller/RegistrationController.java=UTF-8
+encoding//src/ptithcm/controller/admin/BoardnewAddController.java=UTF-8
+encoding//src/ptithcm/controller/admin/BoardnewEditController.java=UTF-8
+encoding//src/ptithcm/controller/admin/ProductAddController.java=UTF-8
+encoding//src/ptithcm/controller/admin/ProductEditController.java=UTF-8
+encoding//src/ptithcm/jdbc/connectDB.java=UTF-8
